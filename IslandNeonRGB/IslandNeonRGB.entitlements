@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<!--
+	No special entitlements are needed for Live Activities that the app starts locally.
+	If you later add push-driven updates (ActivityKit push tokens), enable the
+	Push Notifications capability (aps-environment) from Xcode's Signing &amp; Capabilities tab.
+	-->
+</dict>
+</plist>
